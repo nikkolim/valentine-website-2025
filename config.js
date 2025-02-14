@@ -23,17 +23,17 @@ const CONFIG = {
             text: "Do you still like me?",                                    // First interaction
             yesBtn: "YES",                                             // Text for "Yes" button
             noBtn: "NO",                                               // Text for "No" button
-            secretAnswer: "ZHEN DE MA"           // Secret hover message
+            secretAnswer: "hehh"           // Secret hover message
         },
         second: {
-            text: "Do you really really like me?",                          // For the love meter
-            startText: "ZHEN DE MAAAAAA",                                   // Text before the percentage
+            text: "ZHENNNN DE MAAA?",                          // For the love meter
+            startText: "HOW MUCH",                                   // Text before the percentage
             nextBtn: "u may proceed"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th? 🌹", // The big question!
-            yesBtn: "YES",                                             // Text for "Yes" button
-            noBtn: "YESSSSSSS"                                                 // Text for "No" button
+            yesBtn: "YESSSSSSSSSSS",                                             // Text for "Yes" button
+            noBtn: "yes"                                                 // Text for "No" button
         }
     },
 
@@ -47,8 +47,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "me gib massive rewards",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "xiexie bb",
+        message: "me gib massive rewards!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
