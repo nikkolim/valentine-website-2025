@@ -23,7 +23,7 @@ const CONFIG = {
             text: "Do you still like me?",                                    // First interaction
             yesBtn: "YES",                                             // Text for "Yes" button
             noBtn: "NO",                                               // Text for "No" button
-            secretAnswer: "hehh"           // Secret hover message
+            secretAnswer: "ZHENNNN DE MAAA"           // Secret hover message
         },
         second: {
             text: "ZHENNNN DE MAAA?",                          // For the love meter
@@ -49,7 +49,8 @@ const CONFIG = {
     celebration: {
         title: "xiexie bb",
         message: "me gib massive rewards!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"  // These will bounce around
+      
     },
 
     // Color scheme for the website
